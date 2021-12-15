@@ -1,0 +1,28 @@
+body {
+    background-color:white;
+    color:black;
+}
+p {
+    font-size:18px;
+}
+h1, h3 {
+    color:maroon;
+    text-align:center;
+    font-weight:bold;
+}
+.classname, .classnamea {
+    color:brown;
+    font-weight:bold;
+    font-size:18;
+}
+.amod {
+    color:blue;
+    font-weight:bold;
+    font-size:13;
+}
+.lfloat {
+    float:left;
+    width:55px;
+    height:auto;
+    padding:15%;
+}
